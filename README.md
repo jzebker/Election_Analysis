@@ -43,6 +43,12 @@ This code can be generalized to work for other elections as long as the input da
 <p align="center">
   <img width="727" alt="electiondataformat" src="https://user-images.githubusercontent.com/84994321/124547200-a2e10200-dde0-11eb-8261-276d3955c815.png">
 </p>
+This data could also be used to determine winners of individual counties using some type of group by statement:
+<p align="center">
+    <img width="870" alt="electoral" src="https://user-images.githubusercontent.com/84994321/124654679-b4172680-de53-11eb-9c3c-65f12ded1e36.png">
+</p>
+Output for the code above follows:
+<p align="center">
+    <img width="398" alt="electoraloutput" src="https://user-images.githubusercontent.com/84994321/124654771-d01ac800-de53-11eb-9ec1-2713a73b681f.png">
+</p>
 
-Electoral college type election - use pandas or SQL GROUPBY to tabulate a winner per county.
-If there is a tie
