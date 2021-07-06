@@ -38,6 +38,4 @@ The analysis of the election shows that:
 - The county with the most voters was:   
     - (2) Denver with **82.8%** of the total vote and **306,055** voters.
 
-## Challenge Overview
-
-## Challenge Summary
+## Election-Audit Summary
