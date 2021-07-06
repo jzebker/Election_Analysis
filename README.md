@@ -39,3 +39,7 @@ The analysis of the election shows that:
     - (2) Denver with **82.8%** of the total vote and **306,055** voters.
 
 ## Election-Audit Summary
+This code can be generalized to work for other elections as long as the input data matches the format of the data source.
+<p align="center">
+  <img width="727" alt="electiondataformat" src="https://user-images.githubusercontent.com/84994321/124547200-a2e10200-dde0-11eb-8261-276d3955c815.png">
+</p>
