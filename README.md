@@ -45,4 +45,4 @@ This code can be generalized to work for other elections as long as the input da
 </p>
 
 Electoral college type election - use pandas or SQL GROUPBY to tabulate a winner per county.
-Include list of candidates and send to putin and tell him to pick
+If there is a tie
