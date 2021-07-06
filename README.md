@@ -43,3 +43,6 @@ This code can be generalized to work for other elections as long as the input da
 <p align="center">
   <img width="727" alt="electiondataformat" src="https://user-images.githubusercontent.com/84994321/124547200-a2e10200-dde0-11eb-8261-276d3955c815.png">
 </p>
+
+Electoral college type election - use pandas or SQL GROUPBY to tabulate a winner per county.
+Include list of candidates and send to putin and tell him to pick
