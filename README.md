@@ -45,9 +45,9 @@ This code can be generalized to work for other elections as long as the input da
 </p>
 This data could also be used to determine winners of individual counties using some type of group by statement:
 <p align="center">
-    <img width="870" alt="electoral" src="https://user-images.githubusercontent.com/84994321/124654679-b4172680-de53-11eb-9c3c-65f12ded1e36.png">
+    <img width="632" alt="electoralcode" src="https://user-images.githubusercontent.com/84994321/124655087-3869a980-de54-11eb-83e5-030b214d87b6.png">
 </p>
-Output for the code above follows:
+Sample output for the code above follows:
 <p align="center">
     <img width="398" alt="electoraloutput" src="https://user-images.githubusercontent.com/84994321/124654771-d01ac800-de53-11eb-9ec1-2713a73b681f.png">
 </p>
