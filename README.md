@@ -37,6 +37,8 @@ The analysis of the election shows that:
     - (3) Arapahoe with **6.7%** of the total vote and **24,801** voters.
 - The county with the most voters was:   
     - (2) Denver with **82.8%** of the total vote and **306,055** voters.
+### Computation Method:
+[Python Script](https://github.com/jzebker/Election_Analysis/blob/main/PyPoll_Challenge.py)
 
 ## Election-Audit Summary
 This code can work for other elections as long as the input data matches the format of the data source.  It doesn't matter if it is an election in another country, another year, or on another planet as long as the voting data is formatted as it is below:
@@ -45,11 +47,7 @@ This code can work for other elections as long as the input data matches the for
 </p>
 Examples for modifying the script to fit different elections follow.
 
-(1) For an electoral college-type election, this data could also be used to determine winners of individual counties using some type of group by statement:
-<p align="center">
-    <img width="632" alt="electoralcode" src="https://user-images.githubusercontent.com/84994321/124655087-3869a980-de54-11eb-83e5-030b214d87b6.png">
-</p>
-Sample output for the code above follows:
+(1) For an electoral college-type election, this data could also be used to determine winners of individual counties using some type of group by statement.  Sample output for the suggested code follows:
 <p align="center">
     <img width="398" alt="electoraloutput" src="https://user-images.githubusercontent.com/84994321/124654771-d01ac800-de53-11eb-9ec1-2713a73b681f.png">
 </p>
