@@ -58,5 +58,5 @@ Sample output for the code above follows:
 </p>
 (3) If the voting data is not in csv format, use the appropriate function that reads in the file.
 <p align="center">
-    <img width="415" alt="columnindex" src="https://user-images.githubusercontent.com/84994321/124981119-09853c00-dfea-11eb-891a-129802317887.png">
+    <img width="522" alt="csvreader" src="https://user-images.githubusercontent.com/84994321/124981481-7993c200-dfea-11eb-85f6-0cd6fd62d39a.png">
 </p>
