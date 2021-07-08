@@ -1,5 +1,6 @@
 # Election_Analysis
 [Deliverable 1](https://github.com/jzebker/Election_Analysis/blob/main/PyPollterminaloutput.png)
+
 [Deliverable 2](https://github.com/jzebker/Election_Analysis/blob/main/analysis/election_analysis.txt)
 ## Resources
 - Data Source: election_results.csv
